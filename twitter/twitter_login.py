@@ -11,6 +11,7 @@ def login():
 	APP_NAME = ''
 	CONSUMER_KEY = ''
 	CONSUMER_SECRET = ''
+	TOKEN_FILE = '  '
 
 	try:
 		(oauth_token, oauth_token_secret) = read_token_file('auth/twitter.oauth')

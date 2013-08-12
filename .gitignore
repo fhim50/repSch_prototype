@@ -39,4 +39,4 @@ nosetests.xml
 
 
 # twitter/twitter_login.py
-twitter/auth/
+twitter/
