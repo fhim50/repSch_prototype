@@ -8,9 +8,9 @@ from twitter.oauth_dance import oauth_dance
 
 def login():
 
-	APP_NAME = ''
-	CONSUMER_KEY = ''
-	CONSUMER_SECRET = ''
+	APP_NAME = 'repSHS'
+	CONSUMER_KEY = 'xXoOZHeImI6OzfxlUmjhGQ'
+	CONSUMER_SECRET = 'NQ38OEKv1CJtuONLJaQZJdrc3HVgnkrnlguSv6NOWRM'
 	TOKEN_FILE = 'auth/twitter.oauth'
 
 	try:
