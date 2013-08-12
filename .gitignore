@@ -1,5 +1,6 @@
 *.py[cod]
 *.pyc
+*.py~
 
 
 # C extensions
@@ -37,4 +38,5 @@ nosetests.xml
 .pydevproject
 
 
-twitter/twitter_login.py
+# twitter/twitter_login.py
+twitter/auth/
